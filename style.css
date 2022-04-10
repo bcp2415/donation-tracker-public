@@ -1,0 +1,81 @@
+h1,
+h2,
+h3,
+#searchForm {
+  text-align: center;
+}
+
+.button-centered {
+  margin: 1em auto;
+  display: block;
+}
+
+.button-inline,
+.inline {
+  margin: 10px;
+}
+
+.saveMessage {
+  margin: 10px;
+  font-weight: 900;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+#dummySaveElement {
+  display: none;
+}
+
+.counterNamesEntryTable {
+  margin: 10px auto;
+}
+
+.right-justify {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.finalCheckList {
+  font-size: x-large;
+  line-height: 1.4em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+#page5 {
+  display: flex;
+  justify-items: center;
+  flex-direction: column;
+}
+
+#navBar {
+  display: flex;
+  justify-items: auto;
+}
+
+.table {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#searchTerm {
+  max-width: 200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#searchButton {
+  display: inline;
+}
+
+#page5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
